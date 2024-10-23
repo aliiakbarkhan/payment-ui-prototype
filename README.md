@@ -10,7 +10,7 @@ This repository contains the Figma prototype for a **Payment App**. The app is d
 - **Secure Authentication**: Enhanced security features including fingerprint and facial recognition.
 
 ## Prototype Preview 📱
-You can view the prototype on Figma using [this link](#).
+You can view the prototype on Figma using [this link](https://www.figma.com/community/file/1334538822099072239/swip-up).
 
 ## Screenshots 📸
 Here are some key screenshots of the payment app design:
