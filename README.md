@@ -1,5 +1,5 @@
 # Payment App Prototype 💳⚡
-<img src = "Screenshots/Screenshot 2024-10-23 235733.png" width="100%" height="auto"/>
+<img src = "Screenshots/11.png" width="100%" height="auto"/>
 ## Overview ✨
 This repository contains the Figma prototype for a **Payment App**. The app is designed to provide users with a fast, secure, and intuitive platform for managing transactions. The design focuses on simplifying the user experience with easy navigation, clear payment options, and secure features.
 
