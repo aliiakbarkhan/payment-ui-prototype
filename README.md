@@ -3,6 +3,10 @@
 ## Overview ✨
 This repository contains the Figma prototype for a **Payment App**. The app is designed to provide users with a fast, secure, and intuitive platform for managing transactions. The design focuses on simplifying the user experience with easy navigation, clear payment options, and secure features.
 
+## All Rights Reserved.
+This repository and its contents are copyrighted. No part of this repository may be reproduced, distributed, or used without explicit permission from the owner.
+
+
 ## Features 🔥
 - **Quick Payments**: Easily send or receive money with a few clicks.
 - **Bill Management**: Keep track of bills, due dates, and automatic payments.
