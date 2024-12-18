@@ -1,5 +1,7 @@
 # Payment App Prototype
+
 <img align="middle" alt="GIF" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/deesqit-0927fa40-deb1-4e7c-a00a-2b9df401d767.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGVlc3FpdC0wOTI3ZmE0MC1kZWIxLTRlN2MtYTAwYS0yYjlkZjQwMWQ3NjcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lWqKTu3r9kbx8IIKgFBQJQoW3Q5ZT-zEzMVfGiVHh94" />
+
 ## Overview 
 This repository contains the Figma prototype for a **Payment App**. The app is designed to provide users with a fast, secure, and intuitive platform for managing transactions. The design focuses on simplifying the user experience with easy navigation, clear payment options, and secure features.
 
