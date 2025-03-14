@@ -44,7 +44,8 @@ https://github.com/user-attachments/assets/8d568a6c-0fe5-4467-adbb-f050e1c142c4
 - Collect feedback to enhance security and user flow.
 
 ## License 
-This project is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode).
+
+https://github.com/user-attachments/assets/1b6f530c-0eb8-4c25-90c6-f26a9c64263a
 
 ## Contributing 
 This project is not open for contributions at the moment, but suggestions and feedback are welcome!
